@@ -1,0 +1,18 @@
+gymnasium
+jupyterlab
+pandas
+numpy
+torch
+matplotlib
+seaborn
+tqdm
+# plotly
+# mujoco
+imageio
+ale-py
+minatar
+stable_baselines3
+tensorboard
+wandb
+# cleanrl_utils
+umap
