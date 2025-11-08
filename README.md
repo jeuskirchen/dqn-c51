@@ -7,5 +7,5 @@ The code is inspired by cleanrl implementations (https://github.com/vwxyzjn/clea
 Using `torch`, `gymnasium`, `minatar`. 
 
 <p align="center">
-    <img src="gifs/demo.gif" alt="" width=1000/>
+    <img src="gifs/demo.gif?v=1" alt="" width=1000/>
 </p>
