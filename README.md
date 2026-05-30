@@ -1,4 +1,4 @@
-# rl-final-assignment 
+# dqn-c51 
 
 Comparison of DQN and C51 agents on the MinAtar SeaQuest environment. 
 
